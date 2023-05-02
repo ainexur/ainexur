@@ -1,4 +1,4 @@
-- 👋 Wellcome, I’m @ainexur
+- 👋 Wellcome, I'm @ainexur
 
 <!---
 ainexur/ainexur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
